@@ -1,8 +1,10 @@
 # Objetivos do Projeto
 
-Este projeto tem como objetivo principal organizar a documentação de forma eficiente.
+Este projeto pretende estabelecer um sistema robusto de documentação partilhada para melhorar a produtividade.
 
 ## Metas
 - Criar estrutura clara
 - Facilitar colaboração
+- Implementar controlo de qualidade
+- Automatizar processos de validação
 
